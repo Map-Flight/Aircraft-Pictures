@@ -1,6 +1,6 @@
 ## Welcome!
 ### How to submit your picture?
-1. fork this repo.
+1. fork [this](https://github.com/Map-Flight/Aircraft-Pictures) repo.
 2. Add your picture to your repo. The specific folder format is as follows:
 
 ```
