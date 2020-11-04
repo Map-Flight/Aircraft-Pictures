@@ -1,4 +1,6 @@
 ## Welcome!
+[English](README.md) | [中文](README_CN.md)
+
 ### How to submit your picture?
 1. fork [this](https://github.com/Map-Flight/Aircraft-Pictures) repo.
 2. Add your picture to your repo. The specific folder format is as follows:
@@ -25,7 +27,7 @@ Please check `aircrafts.csv` for specific aircraft id and livery id.
 3. The image aspect ratio cannot be too small or too large
 4. Picture size cannot exceed 0.8MB **We recommend that you use [tinypng.com](http://tinypng.com) to compress your images**
 5. The picture cannot contain any watermark
-6. **IMPORTANT!!!** The picture name must be changed to "livery ID.jpg" format. And it must be placed under the corresponding aircraft ID folder
+6. **IMPORTANT!!!** The picture name must be changed to "livery ID.jpg" format. And it must be placed under the corresponding aircraft ID folder **(If you cannot find specific aircraft id folder, it may not have been created yet, you can create it)**
 
 ### About copyright
 When you submit your pictures to this repo, you have automatically granted Map Flight the right to use your pictures in website and apps.
