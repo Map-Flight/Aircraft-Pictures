@@ -3,12 +3,14 @@
 1. fork this repo.
 2. Add your picture to your repo. The specific folder format is as follows:
 
+```
 repo
     |images
         |"Aircraft ID"
             |"Livery ID.jpg"
     |README.md
     |aircrafts.csv
+```
 
 Please check `aircrafts.csv` for specific aircraft id and livery id.
 
@@ -25,3 +27,8 @@ Please check `aircrafts.csv` for specific aircraft id and livery id.
 
 ### About reviewers
 When the number of pictures you submit exceeds 12, you can apply to be a photo reviewer in our thread on IFC or discord ;)
+
+### About copyright
+When you submit your pictures to this repo, you have automatically granted Map Flight the right to use your pictures in website and apps.
+
+**Except Map Flight, anyone else is prohibited from using any resources in this repo!**
