@@ -23,7 +23,7 @@ Please check `aircrafts.csv` for specific aircraft id and livery id.
 2. The picture cannot be too blurry
 3. The image aspect ratio cannot be too small or too large
 4. Picture size cannot exceed 0.8MB **We recommend that you use [tinypng.com](tinypng.com) to compress your images**
-5. **IMPORTANT!!!** The name of the picture must be changed to the livery ID. The picture type must be .jpg.
+5. **IMPORTANT!!!** The picture name must be changed to "livery ID.jpg" format. And it must be placed under the corresponding aircraft ID folder!
 
 ### About reviewers
 When the number of pictures you submit exceeds 12, you can apply to be a photo reviewer in our thread on IFC or discord ;)
