@@ -14,7 +14,7 @@ repo
 
 Please check `aircrafts.csv` for specific aircraft id and livery id.
 
-3. Create a new pull request. **You cannot delete or move any existing files in the repo, otherwise your pr will not be passed!**
+3. Create a new pull request in your repo, and the `base repository` need to be `Map-Flight/Aircraft-Pictures`. **You cannot delete or move any existing files in the repo, otherwise your pr will not be passed!**
 4. Waiting for our reviewers to approve your picture.
 5. When the reviewer passes your review, your picture will be automatically updated on the Map-Flight website and apps.
 
