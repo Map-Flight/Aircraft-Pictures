@@ -23,7 +23,7 @@ Please check `aircrafts.csv` for specific aircraft id and livery id.
 1. Picture size cannot be too small
 2. The picture cannot be too blurry
 3. The image aspect ratio cannot be too small or too large
-4. Picture size cannot exceed 0.8MB **We recommend that you use [tinypng.com](tinypng.com) to compress your images**
+4. Picture size cannot exceed 0.8MB **We recommend that you use [tinypng.com](http://tinypng.com) to compress your images**
 5. The picture cannot contain any watermark
 6. **IMPORTANT!!!** The picture name must be changed to "livery ID.jpg" format. And it must be placed under the corresponding aircraft ID folder
 
