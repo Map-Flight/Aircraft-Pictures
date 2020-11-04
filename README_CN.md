@@ -11,6 +11,7 @@
         |"机型ID"
             |"涂装ID.jpg"
     |README.md
+    |README_CN.md
     |CNAME
     |aircrafts.csv
 ```

@@ -11,6 +11,7 @@ repo
         |"Aircraft ID"
             |"Livery ID.jpg"
     |README.md
+    |README_CN.md
     |CNAME
     |aircrafts.csv
 ```
