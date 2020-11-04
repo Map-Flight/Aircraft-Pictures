@@ -2,6 +2,7 @@
 ### How to submit your picture?
 1. fork this repo.
 2. Add your picture to your repo. The specific folder format is as follows:
+
 repo
     |images
         |"Aircraft ID"
